@@ -4,7 +4,7 @@
 A simple resume parser used for extracting information from resumes
 ```
 
-Built with ❤︎ and :coffee: by  [Omkar Pathak](https://github.com/OmkarPathak)
+
 
 ---
 
@@ -129,23 +129,4 @@ The module would return a list of dictionary objects with result as follows:
 ]
 ```
 
-# References that helped me get here
 
-- Some of the core concepts behind the algorithm have been taken from [https://github.com/divapriya/Language_Processing](https://github.com/divapriya/Language_Processing) which has been summed up in this blog [https://medium.com/@divalicious.priya/information-extraction-from-cv-acec216c3f48](https://medium.com/@divalicious.priya/information-extraction-from-cv-acec216c3f48). Thanks to Priya for sharing this concept
-
-- [https://www.kaggle.com/nirant/hitchhiker-s-guide-to-nlp-in-spacy](https://www.kaggle.com/nirant/hitchhiker-s-guide-to-nlp-in-spacy)
-
-- [https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/](https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/)
-
-- **Special thanks** to dataturks for their [annotated dataset](https://dataturks.com/blog/named-entity-recognition-in-resumes.php)
-
-# Donation
-
-If you have found my softwares to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such softwares :smile:
-
-| PayPal | <a href="https://paypal.me/omkarpathak27" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" alt="Donate via PayPal!" title="Donate via PayPal!" /></a> |
-|:-------------------------------------------:|:-------------------------------------------------------------:|
-| ₹ (INR)  | <a href="https://www.instamojo.com/@omkarpathak27/" target="_blank"><img src="https://www.soldermall.com/images/pic-online-payment.jpg" alt="Donate via Instamojo" title="Donate via instamojo" /></a> |
-
-# Stargazer over time
-[![Stargazers over time](https://starchart.cc/OmkarPathak/pyresparser.svg)](https://starchart.cc/OmkarPathak/pyresparser)
